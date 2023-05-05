@@ -1,0 +1,25 @@
+.background-image {
+	background-image: url('logo.png');
+	background-size: cover;
+	height: 100vh;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+.donate-button {
+	background-color: rgb(182, 24, 24);
+	padding: 20px;
+	border-radius: 5px;
+	box-shadow: 0px 0px 10px rgba(231, 72, 210, 0.2);
+}
+
+button {
+	font-size: 24px;
+	padding: 10px 20px;
+	border: none;
+	background-color: #3CB371;
+	color: rgb(139, 172, 49);
+	border-radius: 5px;
+	cursor: pointer;
+}
